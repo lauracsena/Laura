@@ -27,7 +27,7 @@ height: 50px;
 width: 20%;
 height: 100%;
 text-align: center;
-background: #F4F3F3;
+background: #ffffff;
 float: left;
 }
 .logo img{
@@ -39,7 +39,7 @@ height: 100%;
 width: 65%;
 height: 100%;
 /*background: #333;*/
-background:#004aad;
+background:#FF5757;
 float: left;
 }
 
@@ -49,7 +49,7 @@ width: 15.9%;
 height: 100%;
 float: left;
 font-size: 0.7em;
-background:#333;
+background:#FF5757;
 }
 .navega .notificacion{
 width: 80%;
@@ -114,7 +114,7 @@ display: none;
 }
 /*las opciones del menu administrador arriba a la derecha*/
 nav .ingreso li ul{
-background: blue;
+background: #FF5757;
 width: 15%;
 }
 nav li ul li{
@@ -130,7 +130,7 @@ aside{
 width: 20%;
 height: 750px;
 /*background: #DB9F16;*/
-background:#333;
+background:#003f91;
 color: #fff;
 float: left;
 }
